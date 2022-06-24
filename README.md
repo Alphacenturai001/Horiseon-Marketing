@@ -4,4 +4,4 @@ Challenge assignment1
 [Website](https://alphacenturai001.github.io/Horiseon-Marketing/)
 <br />
 [Repository](https://github.com/Alphacenturai001/Horiseon-Marketing)
-![](assets/images/alphacenturai001.github.io_My-Portfolio_)
+![](alphacenturai001.github.io_Horiseon-Marketing_.png)
